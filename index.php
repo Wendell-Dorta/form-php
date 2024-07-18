@@ -12,7 +12,8 @@
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <!-- links php -->
     <?php 
-        require 'assets/php/processa.php';
+        // require 'assets/php/processa.php';
+        require 'assets/php/pdo.php';
     ?>
     <title>Cadastro</title>
 </head>
@@ -21,7 +22,7 @@
 
     <h2>Formulário de Cadastro</h2>
 
-    <form action="assets/php/processa.php" method="post">
+    <form action="assets/php/pdo.php" method="post">
 
         <label for="nome">Nome: </label><br>
         <input type="text" name="nome" id="nome" require><br><br>
