@@ -10,7 +10,7 @@ Se você é um membro da equipe ou um colaborador, siga as diretrizes abaixo par
 
 1. Clone o repositório para o seu ambiente local:
    ```bash
-   git clone https://github.com/edcarlosrocha/future-web.git
+   git clone https://github.com/Wendell-Dorta/form-php.git
    ```
 
 2. Configure suas informações de usuário localmente:
